@@ -14,4 +14,4 @@ A web-based application to guide users through yoga poses with visual instructio
 - **Package Management:** npm
 - **Project Bundler:** Vite
 
-## Project Structure
+
